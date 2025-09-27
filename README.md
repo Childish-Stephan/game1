@@ -9,3 +9,4 @@ This is test game that utilise Godot 3D. Overall just a prototype that involves 
 - Health Mechanic
 - Enemies AI and Pathfinding
 - Controller Compatibility
+- ~~Added Version Control~~
